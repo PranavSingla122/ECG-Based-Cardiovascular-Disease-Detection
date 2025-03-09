@@ -3,6 +3,8 @@
 Overview
 This project focuses on classifying ECG images into four categories using a fine-tuned ResNet50 deep learning model. The dataset consists of 928 ECG images categorized into:
 
+Dataset:- https://data.mendeley.com/datasets/gwbz3fsgp8/2
+
 
 ✅ Myocardial Infarction (MI) Patients
 
