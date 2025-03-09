@@ -2,6 +2,8 @@
 
 Overview
 This project focuses on classifying ECG images into four categories using a fine-tuned ResNet50 deep learning model. The dataset consists of 928 ECG images categorized into:
+
+
 ✅ Myocardial Infarction (MI) Patients
 ✅ Patients with a History of MI
 ✅ Patients with Abnormal Heartbeats
@@ -11,6 +13,8 @@ Performance Summary
 The model achieved 99% accuracy on the test dataset, demonstrating high precision and recall across all categories.
 
 Class	Precision	Recall	F1-score	Support
+
+
 Myocardial Infarction Patients	1.00	1.00	1.00	44
 History of MI Patients	0.96	0.96	0.96	26
 Abnormal Heartbeat Patients	0.98	1.00	0.99	45
