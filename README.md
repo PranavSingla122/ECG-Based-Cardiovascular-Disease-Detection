@@ -35,7 +35,11 @@ Normal ECGs	1.00	0.96	0.98	25
 
 
 🔹 Final Test Accuracy: 98.57%
+
+
 🔹 Best Validation Accuracy: 94.96%
+
+
 🔹 Best Validation Loss: 0.1116
 
 Model Details
